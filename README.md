@@ -3,8 +3,8 @@
 Create & setup a project by running the following commands:
 
 ```sh
-mkdir joynode
-cd joynode
+mkdir joy
+cd joy
 npm init -y
 npm install --save react react-dom
 npm install --save next
@@ -22,7 +22,7 @@ The `src` directory is very common in many apps and `Next.js` supports it by def
 **Example**: If you create `src/pages/about.js` that exports a React component like below, it will be accessible at /about
 
 
-Then open the "package.json" file in the "joynode" directory and replace scripts with the following:
+Then open the "package.json" file in the "joy" directory and replace scripts with the following:
 
 ```sh
 "scripts": {
