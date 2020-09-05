@@ -424,3 +424,9 @@ https://nextjs.org/docs/basic-features/pages
 
 E-Commerce App : https://www.youtube.com/watch?v=wPQ1-33teR4&t=5449s
 Redux: https://www.youtube.com/watch?v=CVpUuw9XSjY&t=1918s
+
+nodejs setting up environ variable : Node.js Everywhere with Environment Variables!
+dotenv with nodemon:https://medium.com/@pdx.lucasm/dotenv-nodemon-a380629e8bff
+Using dotenv : Using dotenv with Jest
+Test a Node RESTful API with Mocha and Chai : https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai
+understanding jest mock & spyon : https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c
